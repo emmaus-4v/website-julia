@@ -6,7 +6,7 @@ html, body {
     background-color:rgb(246, 232, 234);  
     
     color:rgb(0, 38, 38);
-    font: Verdana, Arial, Sans-Serif;
+    font: Times, Sans-Serif, Helvetica;
 }
 
 
@@ -36,12 +36,12 @@ footer {
 
 /* specifieke stijlen */
 
-img.zweeflinks {
+.img-zweeflinks {
     float: left;
     margin-right: 15px;
 }
 
-img.zweefrechts {
+.img-zweefrechts {
     float: right;
     margin-left: 15px;
 }
@@ -57,6 +57,10 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+a:active {
+    color: rgb(243, 208, 250)
 }
 
 
@@ -86,7 +90,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: rgb(165, 125, 173);
+    background-color: rgb(243, 208, 250);
 }
 
 
