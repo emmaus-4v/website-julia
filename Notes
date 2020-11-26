@@ -1,21 +1,65 @@
 To do
-X References layout
 H New picture for morgan
 - 18th century research
 - 19th century research
 - 20th century research
+- 18th century text
+- 19th century text
+- 20th century text
 H 18th century images
 H 19th century images
 H 20th century images
-- 18th century layout
-- 19th century layout
-- 20th century layout
 H home images
-- home layout
+~ maybe some bold/italic things
+H save all pictures, so that they're not connected to another website
+
+
+
+Checklist
+X 5 pagina'
+X link naar andere websites
+- juiste resolutie fotos
+- spelcontrole
+X informatief
+- mappen structuur
+- geen ongebruikte bestanden
+- goed leesbaar en overzichtelijke code (add notes)
+- Alle afbeeldingen lokaal opgeslagen
+- duidelijke class id namen
+- bestanden met logische namen (geen hoofdletters en leestekens (behalve - _))
+- css in het css bestand, niet in pagina
+
+X goedgekeurd onderwerp
+X hoofpagina en subpaginas
+X werkende nav-balk
+X layout gemaakt (elke pagina ong. zelfde layout)
+~ onderdelen uit layout benoemd et class, tags, ids
+- inhoud op alle pagina'
+- alle plaatjes werken en staan op de website
+X kleuren en fonts gekozen (in css)
+- geen slordigheden in layout kleur f inhoud
+- leesbare en duidelijke hml en css
+- website werkt op :
+                    groter scherm
+                    kleiner scherm
+                    ander apparaat
+                    andere browser
+- er zitten eye catchers in (geen idee hoe ik dit ga doen)
+
+
+
+gedaan:
+X References layout
+X 18th century layout
+X 19th century layout
+X 20th century layout
+X home layout
 X colour scheme
-- title
+X title
 X font
 X active link colour change
-- maybe some bold/italic things
-H save all pictures, so that they're not connected to another website
-- update this list to current guidelines
+X update this list to current guidelines
+X references research
+X references text
+X references images
+X intro paragraphs
