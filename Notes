@@ -1,16 +1,13 @@
 To do
-- 18th century research
 - 20th century research
-- 18th century text
 - 20th century text
 H 18th century images
 H 19th century images
 H 20th century images
 ~ maybe some bold/italic things
 H save all pictures, so that they're not connected to another website
-S fix layout 1795
-- put all the images inside text boxes
-S fix layout other rescources
+~ fix layout 1795
+Q fix layout other rescources
 
 
 
@@ -18,16 +15,16 @@ S fix layout other rescources
 Checklist
 X 5 pagina'
 X link naar andere websites
-- juiste resolutie fotos
-- spelcontrole
+/ juiste resolutie fotos
+/ spelcontrole
 X informatief
 - mappen structuur
-- geen ongebruikte bestanden
-- goed leesbaar en overzichtelijke code (add notes)
+/ geen ongebruikte bestanden
+/ goed leesbaar en overzichtelijke code (add notes)
 - Alle afbeeldingen lokaal opgeslagen
 - duidelijke class id namen
 - bestanden met logische namen (geen hoofdletters en leestekens (behalve - _))
-- css in het css bestand, niet in pagina
+X css in het css bestand, niet in pagina
 
 X goedgekeurd onderwerp
 X hoofpagina en subpaginas
@@ -71,3 +68,6 @@ X 1900 paragraphs
 X other rescources
 X 19th century research
 X 19th century text
+X put all the images inside text boxes
+X 18th century text
+X 18th century research
