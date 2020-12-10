@@ -1,13 +1,10 @@
 To do
-- 20th century research
-- 20th century text
-H 18th century images
-H 19th century images
-H 20th century images
-~ maybe some bold/italic things
-H save all pictures, so that they're not connected to another website
-~ fix layout 1795
-Q fix layout other rescources
+    H 18th century images
+    H 19th century images
+    H 20th century images
+    H save all pictures, so that they're not connected to another website
+S some kind of eyecatcher things (dropdown menu?)
+- all the alt texts
 
 
 
@@ -31,17 +28,17 @@ X hoofpagina en subpaginas
 X werkende nav-balk
 X layout gemaakt (elke pagina ong. zelfde layout)
 ~ onderdelen uit layout benoemd et class, tags, ids
-- inhoud op alle pagina'
+X inhoud op alle pagina'
 - alle plaatjes werken en staan op de website
 X kleuren en fonts gekozen (in css)
-- geen slordigheden in layout kleur f inhoud
+X geen slordigheden in layout kleur f inhoud
 - leesbare en duidelijke hml en css
 - website werkt op :
                     groter scherm
                     kleiner scherm
                     ander apparaat
                     andere browser
-- er zitten eye catchers in (geen idee hoe ik dit ga doen)
+- er zitten eye catchers in
 
 
 
@@ -71,3 +68,8 @@ X 19th century text
 X put all the images inside text boxes
 X 18th century text
 X 18th century research
+X 20th century research
+X 20th century text
+X maybe some bold/italic things
+X fix layout 1790
+X fix layout other rescources

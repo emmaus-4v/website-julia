@@ -38,16 +38,6 @@ footer {
 
 /* specifieke stijlen */
 
-.img-zweeflinks {
-    float: left;
-    margin-right: 15px;
-}
-
-.img-zweefrechts {
-    float: right;
-    margin-left: 15px;
-}
-
 .smalltext {
     font-size: 0.7em;
 }
@@ -59,27 +49,29 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color:rgb(203, 186, 212);
+    color:rgb(6, 56, 56);
 }
 
 a:active {
     color: rgb(243, 208, 250)
 }
 
+/* float commands */
+
+.img-zweeflinks {
+    float: left;
+    margin-right: 15px;
+}
+
+.img-zweefrechts {
+    float: right;
+    margin-left: 15px;
+}
+
 .txt-zweeflinks{
     float:left;
     margin-right:15px;
-}
-
-.txt-zweefrechts{
-    float:right;
-    margin-left:15px;
-}
-
-.txt-zweefmidden{
-    float:middle;
-    margin-left:15px;
-    margin-right:15px;
+    width: 25%;
 }
 
 /* navigatiebalk */
