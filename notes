@@ -1,9 +1,7 @@
 To do
-    H 19th century images
-    H 20th century images
-    H save all pictures, so that they're not connected to another website
-S some kind of eyecatcher things (dropdown menu?)
-- all the alt texts
+- some kind of eyecatcher things (dropdown menu?)
+- Finish the checklist
+
 
 
 
@@ -11,30 +9,30 @@ S some kind of eyecatcher things (dropdown menu?)
 Checklist
 X 5 pagina'
 X link naar andere websites
-/ juiste resolutie fotos
-/ spelcontrole
+X juiste resolutie fotos
+- spelcontrole
 X informatief
-- mappen structuur
-/ geen ongebruikte bestanden
-/ goed leesbaar en overzichtelijke code (add notes)
-- Alle afbeeldingen lokaal opgeslagen
+X mappen structuur
+X geen ongebruikte bestanden
+- goed leesbaar en overzichtelijke code (add notes)
+X Alle afbeeldingen lokaal opgeslagen
 - duidelijke class id namen
-- bestanden met logische namen (geen hoofdletters en leestekens (behalve - _))
+X bestanden met logische namen (geen hoofdletters en leestekens (behalve - _))
 X css in het css bestand, niet in pagina
 
 X goedgekeurd onderwerp
 X hoofpagina en subpaginas
 X werkende nav-balk
 X layout gemaakt (elke pagina ong. zelfde layout)
-~ onderdelen uit layout benoemd et class, tags, ids
+X onderdelen uit layout benoemd et class, tags, ids
 X inhoud op alle pagina'
-- alle plaatjes werken en staan op de website
+X alle plaatjes werken en staan op de website
 X kleuren en fonts gekozen (in css)
 X geen slordigheden in layout kleur f inhoud
 - leesbare en duidelijke hml en css
 - website werkt op :
-                    groter scherm
-                    kleiner scherm
+                    X groter scherm
+                    X kleiner scherm
                     ander apparaat
                     andere browser
 - er zitten eye catchers in
@@ -73,3 +71,7 @@ X maybe some bold/italic things
 X fix layout 1790
 X fix layout other rescources
 X 18th century images
+X 19th century images
+X 20th century images
+X save all pictures, so that they're not connected to another website
+X all the alt texts
