@@ -1,5 +1,4 @@
 To do
-- some kind of eyecatcher things (dropdown menu?)
 - Finish the checklist
 
 
@@ -14,9 +13,9 @@ X juiste resolutie fotos
 X informatief
 X mappen structuur
 X geen ongebruikte bestanden
-- goed leesbaar en overzichtelijke code (add notes)
+X goed leesbaar en overzichtelijke code (add notes)
 X Alle afbeeldingen lokaal opgeslagen
-- duidelijke class id namen
+X duidelijke class id namen
 X bestanden met logische namen (geen hoofdletters en leestekens (behalve - _))
 X css in het css bestand, niet in pagina
 
@@ -75,3 +74,4 @@ X 19th century images
 X 20th century images
 X save all pictures, so that they're not connected to another website
 X all the alt texts
+X some kind of eyecatcher things (dropdown menu?)
